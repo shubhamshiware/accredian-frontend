@@ -1,0 +1,10 @@
+.custom-nav-link {
+  margin-right: 15px;
+  padding: 5px 10px;
+  color: blue;
+  text-decoration: none;
+}
+
+.custom-nav-link:hover {
+  color: blue;
+}
